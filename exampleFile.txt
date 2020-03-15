@@ -1,3 +1,0 @@
-This is a file and it exists here
-
-This file has now been modified
